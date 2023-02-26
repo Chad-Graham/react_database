@@ -1,6 +1,7 @@
 export const RESULTS = () => {
     return (
-            <p>{result}</p>
+            <><p>{result}</p></>
+
 
       );
 }
